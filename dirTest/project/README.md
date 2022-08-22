@@ -1,27 +1,14 @@
 
-In this directory, you should write the program `wcat.c` and compile it into
-the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
+# EVALUACION1
+se acepto el proyecto de github luego se clono el repsoitorio en el pc local luego se mdofico 
+se hizo el commit y luego el push
+![nand](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NAND_ANSI_Labelled.svg/330px-NAND_ANSI_Labelled.svg.png)
+[abogado](https://www.youtube.com/watch?v=tgRTunsDrC4)
+1. git clone y el link del repositorio
+2. git add y el nombre del archivo
+3. git commit -m "lo que se quiera decir que se hizo en commit"
+4. git push  con el repositorio vinculado 
 
-After doing so, you can run the tests from this directory by running the
-`test-wcat.sh` script. If all goes well, you will see:
-
-```sh
-prompt> ./test-wcat.sh
-test 1: passed
-test 2: passed
-test 3: passed
-test 4: passed
-test 5: passed
-test 6: passed
-test 7: passed
-prompt>
-```
-
-The `test-wcat.sh` script is just a wrapper for the `run-tests.sh` script in
-the `tester` directory of this repository. This program has a few options; see
-the relevant
-[README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
-for details.
 
 
 
